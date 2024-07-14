@@ -11,9 +11,7 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		
 		int n;
-		
-		
-		
+			
 		System.out.print("Quantos valores vai ter cada vetor? ");
 		n = sc.nextInt();
 		
